@@ -1,0 +1,25 @@
+h3{
+     padding: 20px;
+}
+#navbar a{
+     padding-right: 50px;
+     color: aliceblue;
+}
+#navbar a:hover{
+     transition: 0.5s;
+     color: gray;
+}
+.sidebar{
+     text-align: center;
+     height : 700px;
+     background-color: #212529;
+     width: 400px;
+     margin-left: -210px;
+     border-left: -20px;
+     color: white;
+     
+}
+#centre-align{
+     text-align: center;
+     margin-top: 20px;
+}
